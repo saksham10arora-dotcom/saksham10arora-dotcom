@@ -6,13 +6,12 @@ CS undergrad, IIT Madras Online BS. I care about the layer where performance is 
 
 ## Currently building
 
-- `llm-bench` -- LLM API latency benchmarker with p50/p95/p99 reporting
 - `lockfree-cpp` -- lock-free C++20 concurrent data structures
 
 ## Selected work
 
 - **HFT matching engine** -- low-latency order matching: 2.7M ops/sec, p99 900ns, 3.31x over baseline, 21 tests
-- **IMC Prosperity 4** -- global quant trading competition, top 0.5% of 18,800+ teams
+- **IMC Prosperity 4** -- global quant trading competition, top 1% of 18,800+ teams
 
 ## Writing
 
