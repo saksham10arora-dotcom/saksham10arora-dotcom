@@ -22,3 +22,5 @@ Low-latency systems, quant, and applying systems rigor to AI tooling.
 ## Find me
 
 [Portfolio](https://saksham10arora-dotcom.github.io) | [LinkedIn](https://linkedin.com/in/saksham-arora10) | saksham10arora@gmail.com
+
+<img src="https://counter.kuber.studio/saksham10arora-dotcom/hacker/count.svg" alt="Profile views" />
