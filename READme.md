@@ -1,4 +1,4 @@
-# Hi, I’m Saksham Arora
+# Hi, I'm Saksham Arora
 
 Systems and quant engineer. I build low-latency tooling -- for markets and for AI.
 
