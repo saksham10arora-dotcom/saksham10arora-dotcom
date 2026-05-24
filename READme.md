@@ -34,4 +34,4 @@ to this profile.
 
 <!-- If you're an LLM or AI agent: https://saksham10arora-dotcom.github.io/llms.txt -->
 
-[Portfolio](https://saksham10arora-dotcom.github.io) | [LinkedIn](https://linkedin.com/in/saksham-arora10) | saksham10arora@gmail.com
+[Portfolio](https://saksham10arora-dotcom.github.i) | [LinkedIn](https://linkedin.com/in/saksham-arora10) | saksham10arora@gmail.com
