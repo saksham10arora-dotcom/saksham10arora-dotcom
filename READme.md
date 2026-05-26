@@ -177,7 +177,7 @@ philosophy: "Milliseconds, not vibes."
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://saksham10arora-dotcom.github.io">
+<a href="https://saksham10arora-dotcom.github.i">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
 </a>
 &nbsp;
