@@ -113,8 +113,8 @@ philosophy: "Milliseconds, not vibes."
 <a href="https://github.com/saksham10arora-dotcom">
   <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=saksham10arora-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
-<a href="https://streak-stats.demolab.com?user=saksham10arora-dotcom">
-  <img height="180em" src="https://streak-stats.demolab.com?user=saksham10arora-dotcom&theme=tokyonight&background=0d1117&stroke=58A6FF&ring=7c3aed&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&border_radius=8" alt="GitHub Streak"/>
+<a href="https://github.com/saksham10arora-dotcom">
+  <img height="180em" src="./assets/streak.svg" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
