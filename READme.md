@@ -114,7 +114,7 @@ philosophy: "Milliseconds, not vibes."
   <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=saksham10arora-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/saksham10arora-dotcom">
-  <img height="180em" src="./assets/streak.svg" alt="GitHub Streak"/>
+  <img width="495" src="./assets/streak.svg" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
