@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saksham+%F0%9F%91%8B;I+build+things+where+milliseconds+are+a+bug.;Systems+%26+Quant+Engineer+%40+IIT+Madras;2.7M+ops%2Fsec+%C2%B7+p99+900ns+%C2%B7+Top+0.4%25+IMC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Saksham+%F0%9F%91%8B;I+build+things+where+milliseconds+are+a+bug.;Systems+%26+Quant+Engineer+%40+IIT+Madras;2.7M+ops%2Fsec+%C2%B7+p99+900ns+%C2%B7+Top+0.8%25+IMC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,9 +26,13 @@
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
-## About
+<br/>
+
+<img src="./assets/section-about.svg" width="180"/>
+
+<br/><br/>
 
 <table>
 <tr>
@@ -37,7 +41,7 @@
 ```yaml
 name: Saksham Arora
 located_in: India
-institution: IIT Madras 
+institution: IIT Madras Online BS
 
 focus:
   - Low-latency systems (C++20)
@@ -72,20 +76,32 @@ philosophy: "Milliseconds, not vibes."
 </tr>
 </table>
 
----
+<br/>
 
-## Selected work
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-work.svg" width="200"/>
+
+<br/><br/>
 
 | Project | What | Numbers |
 |---------|------|---------|
 | [Simple-HFT-Engine](https://github.com/saksham10arora-dotcom/Simple-HFT-Engine) | Lock-free C++20 order-matching engine | 2.7M ops/sec · p99 900ns · 3.31x over baseline |
-| [IMC Prosperity 4](https://github.com/saksham10arora-dotcom/imc-prosperity-4) | Algorithmic trading competition | Top ~0.4% of 18,800+ teams globally |
+| [IMC Prosperity 4](https://github.com/saksham10arora-dotcom/imc-prosperity-4) | Algorithmic trading competition | Top ~0.8% of 18,800+ teams globally |
 | [gitrade](https://github.com/saksham10arora-dotcom/gitrade) | 3-ticker exchange running in a GitHub README | Zero infra. Orders via issues. |
 | [qrscholes](https://github.com/saksham10arora-dotcom/qrscholes) | Black-Scholes pricer in a QR code | 731 bytes. No server. |
 
----
+<br/>
 
-## Trophies
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-trophy.svg" width="180"/>
+
+<br/><br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -93,9 +109,15 @@ philosophy: "Milliseconds, not vibes."
   </a>
 </div>
 
----
+<br/>
 
-## Stats
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-stats.svg" width="200"/>
+
+<br/><br/>
 
 <div align="center">
 
@@ -125,34 +147,50 @@ philosophy: "Milliseconds, not vibes."
 
 </div>
 
----
+<br/>
 
-## Contributions
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-game.svg" width="220"/>
+
+<br/><br/>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/saksham10arora-dotcom/saksham10arora-dotcom/output/pacman-contribution-graph-dark.svg" width="100%"/>
 </picture>
+
+<br/>
+
+<sub>👾 Watch Pac-Man devour my contributions!</sub>
 
 </div>
 
----
+<br/>
 
-## Tech
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-tech.svg" width="180"/>
+
+<br/><br/>
 
 <div align="center">
 
-**Systems & Languages**
+#### 💻 Systems & Languages
 
 <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/></a>
 <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
 
-**Frontend & Tools**
+#### 🔧 Tools & Infrastructure
 
 <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></a>
 <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite"/></a>
@@ -163,9 +201,15 @@ philosophy: "Milliseconds, not vibes."
 
 </div>
 
----
+<br/>
 
-## Connect
+<img src="./assets/divider.svg" width="100%"/>
+
+<br/>
+
+<img src="./assets/section-connect.svg" width="160"/>
+
+<br/><br/>
 
 <div align="center">
 
@@ -177,7 +221,7 @@ philosophy: "Milliseconds, not vibes."
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://saksham10arora-dotcom.github.i">
+<a href="https://saksham10arora-dotcom.github.io">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -187,17 +231,17 @@ philosophy: "Milliseconds, not vibes."
 
 </div>
 
----
+<br/>
 
-## Writing
+<img src="./assets/divider.svg" width="100%"/>
 
-Systems, quant, and AI -- with numbers attached.
-
-[Blog](https://saksham10arora-dotcom.github.io)
-
----
+<br/>
 
 <div align="center">
+
+### 💭 Dev Quote
+
+<br/>
 
 <a href="https://quotes-github-readme.vercel.app">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" width="60%"/>
