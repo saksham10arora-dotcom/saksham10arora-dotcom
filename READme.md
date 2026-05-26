@@ -6,21 +6,10 @@
 
 <br/>
 
-<a href="https://github.com/saksham10arora-dotcom">
-  <img src="https://komarev.com/ghpvc/?username=saksham10arora-dotcom&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile Views"/>
-</a>
-&nbsp;
-<a href="https://github.com/saksham10arora-dotcom?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaksham10arora-dotcom&query=%24.public_repos&suffix=%2B&label=Repos&style=flat-square&color=58A6FF&labelColor=0d1117" alt="Repos"/>
-</a>
-&nbsp;
-<a href="https://github.com/saksham10arora-dotcom?tab=followers">
-  <img src="https://img.shields.io/github/followers/saksham10arora-dotcom?label=Followers&style=flat-square&color=ec4899&labelColor=0d1117" alt="Followers"/>
-</a>
-&nbsp;
-<a href="https://github.com/saksham10arora-dotcom">
-  <img src="https://img.shields.io/github/stars/saksham10arora-dotcom?label=Stars&style=flat-square&color=f59e0b&labelColor=0d1117" alt="Stars"/>
-</a>
+[![Profile Views](https://komarev.com/ghpvc/?username=saksham10arora-dotcom&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/saksham10arora-dotcom)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaksham10arora-dotcom&query=%24.public_repos&suffix=%2B&label=Repos&style=flat-square&color=58A6FF&labelColor=0d1117)](https://github.com/saksham10arora-dotcom?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/saksham10arora-dotcom?label=Followers&style=flat-square&color=ec4899&labelColor=0d1117)](https://github.com/saksham10arora-dotcom?tab=followers)
+[![Stars](https://img.shields.io/github/stars/saksham10arora-dotcom?label=Stars&style=flat-square&color=f59e0b&labelColor=0d1117)](https://github.com/saksham10arora-dotcom)
 
 </div>
 
