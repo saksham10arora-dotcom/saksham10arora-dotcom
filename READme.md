@@ -37,7 +37,7 @@
 ```yaml
 name: Saksham Arora
 located_in: India
-institution: IIT Madras Online BS
+institution: IIT Madras 
 
 focus:
   - Low-latency systems (C++20)
