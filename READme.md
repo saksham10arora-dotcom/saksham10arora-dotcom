@@ -100,7 +100,7 @@ philosophy: "Milliseconds, not vibes."
 <div align="center">
 
 <a href="https://github.com/saksham10arora-dotcom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saksham10arora-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=saksham10arora-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://streak-stats.demolab.com?user=saksham10arora-dotcom">
@@ -110,7 +110,7 @@ philosophy: "Milliseconds, not vibes."
 <br/><br/>
 
 <a href="https://github.com/saksham10arora-dotcom">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saksham10arora-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saksham10arora-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 </a>
 
 <br/><br/>
