@@ -115,7 +115,7 @@ philosophy: "Milliseconds, not vibes."
 </a>
 &nbsp;
 <a href="https://streak-stats.demolab.com?user=saksham10arora-dotcom">
-  <img height="180em" src="https://streak-stats.demolab.com?user=saksham10arora-dotcom&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=7c3aed&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=saksham10arora-dotcom&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=7c3aed&fire=ec4899&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
