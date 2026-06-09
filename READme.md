@@ -58,6 +58,7 @@ philosophy: "Milliseconds, not vibes."
 - IMC Prosperity 4 top 0.8% globally (rank 154)
 - Every artifact carries a latency number
 - Blog: [chimera](https://saksham10arora-dotcom.github.io)
+- [Portfolio](https://portfolio-silk-theta-96.vercel.app/) (took me an eternity even with vibe coding) 
 
 </td>
 </tr>
