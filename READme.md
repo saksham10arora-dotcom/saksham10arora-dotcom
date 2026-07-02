@@ -77,6 +77,16 @@ philosophy: "Milliseconds, not vibes."
 
 ---
 
+### live session
+
+<div align="center">
+
+<img src="assets/terminal.svg" alt="SKSM terminal: current grind and open orders" width="780"/>
+
+</div>
+
+---
+
 ### stats
 
 <div align="center">
@@ -87,6 +97,13 @@ philosophy: "Milliseconds, not vibes."
 <a href="https://github.com/saksham10arora-dotcom">
   <img height="170em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saksham10arora-dotcom&layout=compact&hide_border=true&bg_color=0d0b14&title_color=aa42ff&text_color=c9c0e0&langs_count=6" alt="Top Languages"/>
 </a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/C0SBYYY">
+  <img src="https://leetcard.jacoblin.cool/C0SBYYY?theme=dark&ext=contest&border=0&font=IBM%20Plex%20Mono" alt="LeetCode C0SBYYY" width="495"/>
+</a>
+
 
 <br/><br/>
 
@@ -140,6 +157,31 @@ philosophy: "Milliseconds, not vibes."
 </div>
 
 ---
+
+<details>
+<summary><b>⚠ TRADING HALTED · LULD circuit breaker tripped · click to resume</b></summary>
+
+<br/>
+
+<div align="center">
+
+You just liquidated this README. While the market reopens:
+
+**open orders**
+
+| SIDE | INSTRUMENT | HOW TO FILL |
+|:--|:--|:--|
+| BUY | [gitrade](https://github.com/saksham10arora-dotcom/gitrade) bots | submit a PR, trade $STAR $COMMIT $FORK |
+| BUY | a systems intern who measures before claiming | saksham10arora@gmail.com |
+| SELL | my sleep schedule | already limit down |
+
+<sub>psst: press <code>`</code> on <a href="https://saksham.digital">saksham.digital</a> for the real terminal · SEC Rule 80B would like a word with you</sub>
+
+</div>
+
+</details>
+
+<br/>
 
 <div align="center">
 
