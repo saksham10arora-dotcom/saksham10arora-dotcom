@@ -38,7 +38,7 @@ numbers_that_matter:
   gitrade:         live exchange inside a GitHub README
 
 currently:
-  interning_at: Airtel — Data Science, Jun-Jul 2026
+  interning_at: Airtel · Data Science, Jun-Jul 2026
   building:     llm-bench (HFT-grade LLM latency bench)
 
 philosophy: "Milliseconds, not vibes."
@@ -49,8 +49,8 @@ philosophy: "Milliseconds, not vibes."
 
 ### building
 
-- [`llm-bench`](https://github.com/saksham10arora-dotcom) — HFT-grade latency benchmarker for LLM APIs `[in progress]`
-- [`lockfree-cpp`](https://github.com/saksham10arora-dotcom/lockfree-cpp) — lock-free C++20 concurrent data structures
+- [`llm-bench`](https://github.com/saksham10arora-dotcom/llm-bench) · HFT-grade latency benchmarker for LLM APIs `[shipped · PyPI]`
+- `lockfree-cpp` · lock-free C++20 concurrent data structures
 
 ### shipped
 
@@ -58,7 +58,7 @@ philosophy: "Milliseconds, not vibes."
 - IMC Prosperity 4 top 0.8% globally (rank 154)
 - Every artifact carries a latency number
 - Blog: [chimera](https://saksham10arora-dotcom.github.io)
-- [Portfolio](https://portfolio-silk-theta-96.vercel.app/) (took me an eternity even with vibe coding) 
+- [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 
 
 </td>
 </tr>
@@ -144,7 +144,7 @@ philosophy: "Milliseconds, not vibes."
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0b14)](https://linkedin.com/in/saksham-arora10)
-[![Portfolio](https://img.shields.io/badge/portfolio-7b40ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0b14)](https://portfolio-silk-theta-96.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-7b40ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0b14)](https://saksham.digital)
 [![Blog](https://img.shields.io/badge/chimera-aa42ff?style=flat-square&logo=quasar&logoColor=white&labelColor=0d0b14)](https://saksham10arora-dotcom.github.io)
 [![Email](https://img.shields.io/badge/email-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0b14)](mailto:saksham10arora@gmail.com)
 [![X](https://img.shields.io/badge/x-ffffff?style=flat-square&logo=x&logoColor=white&labelColor=0d0b14)](https://x.com/saksham10arora)
