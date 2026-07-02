@@ -98,12 +98,6 @@ philosophy: "Milliseconds, not vibes."
   <img height="170em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saksham10arora-dotcom&layout=compact&hide_border=true&bg_color=0d0b14&title_color=aa42ff&text_color=c9c0e0&langs_count=6" alt="Top Languages"/>
 </a>
 
-<br/><br/>
-
-<a href="https://leetcode.com/C0SBYYY">
-  <img src="https://leetcard.jacoblin.cool/C0SBYYY?theme=dark&ext=contest&border=0&font=IBM%20Plex%20Mono" alt="LeetCode C0SBYYY" width="495"/>
-</a>
-
 
 <br/><br/>
 
