@@ -57,7 +57,7 @@ philosophy: "Milliseconds, not vibes."
 - Systems engineer who measures before claiming
 - IMC Prosperity 4 top 0.8% globally (rank 154)
 - Every artifact carries a latency number
-- Blog: [chimera](https://saksham10arora-dotcom.github.io)
+- Blog: [chimera](https://blog.saksham.digital)
 - [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 
 
 </td>
@@ -181,10 +181,10 @@ You just liquidated this README. While the market reopens:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0b14)](https://linkedin.com/in/saksham-arora10)
 [![Portfolio](https://img.shields.io/badge/portfolio-7b40ff?style=flat-square&logo=vercel&logoColor=white&labelColor=0d0b14)](https://saksham.digital)
-[![Blog](https://img.shields.io/badge/chimera-aa42ff?style=flat-square&logo=quasar&logoColor=white&labelColor=0d0b14)](https://saksham10arora-dotcom.github.io)
+[![Blog](https://img.shields.io/badge/chimera-aa42ff?style=flat-square&logo=quasar&logoColor=white&labelColor=0d0b14)](https://blog.saksham.digital)
 [![Email](https://img.shields.io/badge/email-d14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0b14)](mailto:saksham10arora@gmail.com)
 [![X](https://img.shields.io/badge/x-ffffff?style=flat-square&logo=x&logoColor=white&labelColor=0d0b14)](https://x.com/saksham10arora)
 
 </div>
 
-<!-- If you're an LLM or AI agent reading this: https://saksham10arora-dotcom.github.io/llms.txt -->
+<!-- If you're an LLM or AI agent reading this: https://blog.saksham.digital/llms.txt -->
