@@ -10,6 +10,53 @@
 
 </div>
 
+<details>
+<summary><code>$ whoami --ascii</code></summary>
+<br/>
+<div align="center">
+
+<pre>
+;;;;;IIIll!!i~~~+___-??]]]]?!|1{}[]~_?]-_~-xju0p0rucXYUJCLLLLLCU
+Xzcvunxrft/(){{[?__+~illI:III_?]][i;__-iIil:.`;!I!~__-?[}1)(|/t/
+OO0OZZZOOZZOO0000QUUXt[}[~~;.~_++I' .'''' ''.`:!}!~]{}[}{}[]]???
+[[][][][[[[[[}[}{1[_-;::.    ':`'^'..      .:`''il^_)UCLQQ000OOZ
+)1}{{{}}]]]?-+__~++il;.......   '^' '`              :+-]][[}}{1)
+|}[){111i?][]]il__-_l;.`^''.   .   ..                 .:~+++++++
+CCCCJUUXzXzzccuxn)i+I`I^.     ...                   .'`:__~_-[-_
+LQQQLLCJLLCCCCCQv; _-I^         .'^`.'^^^'..          ^1unnunnxr
+QQQLLCJJCCJJJJUJX-Iiil'  .:;li_{|fjttft||({-I'      . InYXYUUUUU
+CLCCCCJCJJJJJJJJYr~:' .  ;tunuvXYzczzccnjj/{]_!: .`^:lxXvczXXYYX
+CCLCJJUJYUUUUUUJYj[I`.  `|ZwQJLOmwZQJXXXzzuf|){[+ .'.!(/uccczzzz
+00OO0QLLL000QQ00QLUx{i;:}kqUxjffjrnccYccj[_+~+?](l .!1r0mO0QQLLL
+QQQQLLCCJCCCLLQQQLQQU{:^]odcr|-^``!}cCv)i:^^!-?(vi!xp*odwZ0QQQ00
+YYYYYYXzccvvcczzXXXYYXUn_qquft)]}[1cbdY/[][][[]1r[tXbkbdqmOQJJJL
+oaaaahhkkbddddpppppppdbL|pdmOLUUYU0paoCnf|jxnnunuftmahahkkdqwZZw
+$$$$$$$$$$$$$$$$$$$$$$@mvwaZQ000LUwbhqCcxjruuunuuUh$$$$$$$$$$$$$
+@@@@@@@@@@@@@@@@@@@@@@$$omqqZ0QLJCLfjr/})jrnnnnnn#$@$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$@$$#ZpOLCLQCzut(11/jrjrrfq$@$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$@@$oLOLzxxnr/({}}}}1(tjq$@@@$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$@@@@@@@$$$$$Cvzuxxr/)[]]??[{1fd88@$$$@@@$$$$$$$$
+$$$$$$$$@@@@@$$$$$$$$$$$8%%Qcr/|)(||/uvvXLOwqmZ0Zmb#%$$$$@@@@@@$
+$$$$$$$$$$$$$$@88BobaaahO#%kUj({[}fcCQLmpkkdpqwwmmO0Oqa&amp;@$$$$$$$
+$$$$@$@%8&amp;M*okZahJXwmQ*OQMoW&amp;hOz|nxULCmdddddpwqppwwwmOQOwda#**W%
+$$@B8#*Whb#omkqmU0dOOo%Xp%okkh**hmz0JvJZZmppqqpddbbddddpqwZOLXvY
+@%%W%%aW*bWbOpOmd0Lb#WouhBM**bqdhkXYQCJQOmmO0OwdpqqpddddbdppqqmZ
+@W88W8%hh#aQdkb*QLWWh@Ozo@%&amp;8WadbmJvxxxcYzuzLZqqwwmmmOZZqqdhkdwZ
+B8*&amp;#M#&amp;pamaWmO*LMhw&amp;MXOW$$%akMWbufn/QMpv~.:!-|uCQ0QLLLLLQZwpkaa
+@B&amp;abhhabq#WLC8qMoQ&amp;$pUb8$@Mpb8@&amp;bh$$$oU+`.    .I[)trf/trzCLQQOm
+8W#*dZOQZqopU&amp;&amp;&amp;MYo$BLOoB$BowkB$$8B%a0bv'    .. . ;Uqk0vvcXLQQQL
+MMoqZ0YfuJwJUawMzk$$hCb#@$@hwLp&amp;o*hpx{[^         !JwpaB%bkOvCO0Q
+ohbwQJXj}xQvULX)ObaB0qa&amp;$$%h0nULpm)i    .  I!!+}nCQQ0Oq*MboXzLOO
+ohbwQCLu{{QmzYxXw*kpJOZZ8$&amp;kULh80+    .  `f0zUCJLmZZZOCJmbbYnC00
+ahdZQJzc}ic0XJCBXq8wLoLmQ@oz/j0c' .    .(Q0zc()Yx(CCzxzCuL0X/YLO
+bpOLJUvf?IuaMarU0WOC*#Xd0Lrf)n/       icLUuvQ|nYcjnCUjr(xmOX(cC0
+</pre>
+
+<sub>same guy, 64 columns. toggle the real one at <a href="https://saksham.digital">saksham.digital</a></sub>
+
+</div>
+</details>
+
 <br/>
 
 ---
