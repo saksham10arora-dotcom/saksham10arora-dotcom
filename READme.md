@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=3000&pause=1000&color=aa42ff&center=true&vCenter=true&width=700&lines=Saksham+Arora;I+build+things+where+milliseconds+are+a+bug.;HFT+%C2%B7+Quant+%C2%B7+Systems+%C2%B7+C%2B%2B20;2.7M+ops%2Fsec+%C2%B7+p99+900ns+%C2%B7+IMC+rank+154+%2F+18%2C800%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=3000&pause=1000&color=aa42ff&center=true&vCenter=true&width=700&lines=Saksham+Arora;I+build+things+where+the+interesting+constraint+is+the+data.;Data+Science+%C2%B7+Quant+Research+%C2%B7+Systems+%C2%B7+C%2B%2B20;IMC+rank+154+%2F+18%2C800%2B+teams)](https://git.io/typing-svg)
 
 <br/>
 
@@ -73,9 +73,9 @@ institutions:
   - GGSIPU B.Tech CSE
 
 focus:
-  - Low-latency systems (C++20)
+  - Data science and ML pipelines
   - Quant finance and algo trading
-  - HFT matching engines
+  - Systems engineering (C++20)
   - LLM API benchmarking
 
 numbers_that_matter:
@@ -88,7 +88,7 @@ currently:
   interning_at: Airtel · Data Science, Jun-Jul 2026
   building:     llm-bench (HFT-grade LLM latency bench)
 
-philosophy: "Milliseconds, not vibes."
+philosophy: "Rigor, not vibes."
 ```
 
 </td>
@@ -101,9 +101,9 @@ philosophy: "Milliseconds, not vibes."
 
 ### shipped
 
-- Systems engineer who measures before claiming
+- Data scientist and quant researcher who measures before claiming
 - IMC Prosperity 4 top 0.8% globally (rank 154)
-- Every artifact carries a latency number
+- Every claim ships with a number attached
 - Blog: [chimera](https://blog.saksham.digital)
 - [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 
 
