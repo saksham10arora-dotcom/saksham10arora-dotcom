@@ -144,16 +144,6 @@ philosophy: "Rigor, not vibes."
 <div align="center">
 
 <a href="https://github.com/saksham10arora-dotcom">
-  <img height="170em" src="https://gh-readme-stats.vercel.app/api?username=saksham10arora-dotcom&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=aa42ff&icon_color=7b40ff&text_color=c9c0e0&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/saksham10arora-dotcom">
-  <img height="170em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=saksham10arora-dotcom&layout=compact&hide_border=true&bg_color=0d0b14&title_color=aa42ff&text_color=c9c0e0&langs_count=6" alt="Top Languages"/>
-</a>
-
-
-<br/><br/>
-
-<a href="https://github.com/saksham10arora-dotcom">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham10arora-dotcom&bg_color=0d0b14&color=aa42ff&line=7b40ff&point=c9c0e0&area=true&area_color=7b40ff&hide_border=true&custom_title=contribution+activity" width="95%" alt="Activity Graph"/>
 </a>
 
