@@ -1,6 +1,11 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=20&duration=3000&pause=1000&color=aa42ff&center=true&vCenter=true&width=700&lines=Saksham+Arora;I+build+things+where+the+interesting+constraint+is+the+data.;Data+Science+%C2%B7+Quant+Research+%C2%B7+Systems+%C2%B7+C%2B%2B20;IMC+rank+154+%2F+18%2C800%2B+teams)](https://git.io/typing-svg)
+```
+$ whoami
+Saksham Arora — I build things where the interesting constraint is the data.
+Data Science · Quant Research · Systems · C++20
+IMC Prosperity 4: rank 154 / 18,800+ teams
+```
 
 <br/>
 
