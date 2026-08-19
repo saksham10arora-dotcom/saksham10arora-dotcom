@@ -9,7 +9,7 @@ IMC Prosperity 4: rank 154 / 18,800+ teams
 
 <br/>
 
-<img src="assets/neofetch-v2.svg" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank" width="720"/>
+<img src="assets/neofetch-v3.svg" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank"/>
 
 <br/>
 
@@ -119,17 +119,6 @@ philosophy: "Rigor, not vibes."
 </td>
 </tr>
 </table>
-
----
-
-### work
-
-| Project | What | Numbers |
-|---------|------|---------|
-| [Simple-HFT-Engine](https://github.com/saksham10arora-dotcom/Simple-HFT-Engine) | Lock-free C++20 order-matching engine | 2.7M ops/sec · p99 900ns · 3.31x over baseline |
-| [IMC Prosperity 4](https://github.com/saksham10arora-dotcom/imc-prosperity-4) | Algorithmic trading competition | Rank 154 / 18,800+ teams · top 0.8% globally |
-| [gitrade](https://github.com/saksham10arora-dotcom/gitrade) | 3-ticker exchange running inside a GitHub README | Zero infra. Orders via issues. Live leaderboard. |
-| [qrscholes](https://github.com/saksham10arora-dotcom/qrscholes) | Black-Scholes options pricer in a QR code | 731 bytes. No server. Scan and price. |
 
 ---
 
