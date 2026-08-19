@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="480" viewBox="0 0 980 480">
+  <rect width="980" height="480" rx="14" fill="#050307"/>
+  <rect x="1" y="1" width="978" height="478" rx="13" fill="none" stroke="#2a1f3d" stroke-width="1.5" shape-rendering="crispEdges"/>
+
+  <circle cx="26" cy="24" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="24" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="24" r="6" fill="#27c93f"/>
+  <text x="490" y="29" font-family="'JetBrains Mono', monospace" font-size="13" letter-spacing="2" fill="#6b6478" text-anchor="middle">saksham@sksm-os: neofetch --ascii</text>
+  <line x1="0" y1="46" x2="980" y2="46" stroke="#1c1428" stroke-width="1"/>
+
+  <text x="40" y="78.0" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">;;;;;IIIll!!i~~~+___-??]]]]?!|1{}[]~_?]-_~-xju0p0rucXYUJCLLLLLCU</text>
+  <text x="40" y="86.9" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">Xzcvunxrft/(){{[?__+~illI:III_?]][i;__-iIil:.`;!I!~__-?[}1)(|/t/</text>
+  <text x="40" y="95.8" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">OO0OZZZOOZZOO0000QUUXt[}[~~;.~_++I' .'''' ''.`:!}!~]{}[}{}[]]???</text>
+  <text x="40" y="104.7" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">[[][][][[[[[[}[}{1[_-;::.    ':`'^'..      .:`''il^_)UCLQQ000OOZ</text>
+  <text x="40" y="113.6" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">)1}{{{}}]]]?-+__~++il;.......   '^' '`              :+-]][[}}{1)</text>
+  <text x="40" y="122.5" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">|}[){111i?][]]il__-_l;.`^''.   .   ..                 .:~+++++++</text>
+  <text x="40" y="131.4" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">CCCCJUUXzXzzccuxn)i+I`I^.     ...                   .'`:__~_-[-_</text>
+  <text x="40" y="140.3" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">LQQQLLCJLLCCCCCQv; _-I^         .'^`.'^^^'..          ^1unnunnxr</text>
+  <text x="40" y="149.2" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">QQQLLCJJCCJJJJUJX-Iiil'  .:;li_{|fjttft||({-I'      . InYXYUUUUU</text>
+  <text x="40" y="158.1" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">CLCCCCJCJJJJJJJJYr~:' .  ;tunuvXYzczzccnjj/{]_!: .`^:lxXvczXXYYX</text>
+  <text x="40" y="167.0" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">CCLCJJUJYUUUUUUJYj[I`.  `|ZwQJLOmwZQJXXXzzuf|){[+ .'.!(/uccczzzz</text>
+  <text x="40" y="175.9" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">00OO0QLLL000QQ00QLUx{i;:}kqUxjffjrnccYccj[_+~+?](l .!1r0mO0QQLLL</text>
+  <text x="40" y="184.8" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">QQQQLLCCJCCCLLQQQLQQU{:^]odcr|-^``!}cCv)i:^^!-?(vi!xp*odwZ0QQQ00</text>
+  <text x="40" y="193.7" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">YYYYYYXzccvvcczzXXXYYXUn_qquft)]}[1cbdY/[][][[]1r[tXbkbdqmOQJJJL</text>
+  <text x="40" y="202.6" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">oaaaahhkkbddddpppppppdbL|pdmOLUUYU0paoCnf|jxnnunuftmahahkkdqwZZw</text>
+  <text x="40" y="211.5" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$@mvwaZQ000LUwbhqCcxjruuunuuUh$$$$$$$$$$$$$</text>
+  <text x="40" y="220.4" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">@@@@@@@@@@@@@@@@@@@@@@$$omqqZ0QLJCLfjr/})jrnnnnnn#$@$$$$$$$$$$$$</text>
+  <text x="40" y="229.3" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$@$$#ZpOLCLQCzut(11/jrjrrfq$@$$$$$$$$$$$$$</text>
+  <text x="40" y="238.2" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$$$$$$$$$$$$$$$$$@@$oLOLzxxnr/({}}}}1(tjq$@@@$$$$$$$$$$$$</text>
+  <text x="40" y="247.1" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$$$$$$$$$@@@@@@@$$$$$Cvzuxxr/)[]]??[{1fd88@$$$@@@$$$$$$$$</text>
+  <text x="40" y="256.0" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$@@@@@$$$$$$$$$$$8%%Qcr/|)(||/uvvXLOwqmZ0Zmb#%$$$$@@@@@@$</text>
+  <text x="40" y="264.9" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$$$$$$$$$$$@88BobaaahO#%kUj({[}fcCQLmpkkdpqwwmmO0Oqa&amp;@$$$$$$$</text>
+  <text x="40" y="273.8" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$$$@$@%8&amp;M*okZahJXwmQ*OQMoW&amp;hOz|nxULCmdddddpwqppwwwmOQOwda#**W%</text>
+  <text x="40" y="282.7" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">$$@B8#*Whb#omkqmU0dOOo%Xp%okkh**hmz0JvJZZmppqqpddbbddddpqwZOLXvY</text>
+  <text x="40" y="291.6" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">@%%W%%aW*bWbOpOmd0Lb#WouhBM**bqdhkXYQCJQOmmO0OwdpqqpddddbdppqqmZ</text>
+  <text x="40" y="300.5" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">@W88W8%hh#aQdkb*QLWWh@Ozo@%&amp;8WadbmJvxxxcYzuzLZqqwwmmmOZZqqdhkdwZ</text>
+  <text x="40" y="309.4" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">B8*&amp;#M#&amp;pamaWmO*LMhw&amp;MXOW$$%akMWbufn/QMpv~.:!-|uCQ0QLLLLLQZwpkaa</text>
+  <text x="40" y="318.3" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">@B&amp;abhhabq#WLC8qMoQ&amp;$pUb8$@Mpb8@&amp;bh$$$oU+`.    .I[)trf/trzCLQQOm</text>
+  <text x="40" y="327.2" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">8W#*dZOQZqopU&amp;&amp;&amp;MYo$BLOoB$BowkB$$8B%a0bv'    .. . ;Uqk0vvcXLQQQL</text>
+  <text x="40" y="336.1" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">MMoqZ0YfuJwJUawMzk$$hCb#@$@hwLp&amp;o*hpx{[^         !JwpaB%bkOvCO0Q</text>
+  <text x="40" y="345.0" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">ohbwQJXj}xQvULX)ObaB0qa&amp;$$%h0nULpm)i    .  I!!+}nCQQ0Oq*MboXzLOO</text>
+  <text x="40" y="353.9" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">ohbwQCLu{{QmzYxXw*kpJOZZ8$&amp;kULh80+    .  `f0zUCJLmZZZOCJmbbYnC00</text>
+  <text x="40" y="362.8" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">ahdZQJzc}ic0XJCBXq8wLoLmQ@oz/j0c' .    .(Q0zc()Yx(CCzxzCuL0X/YLO</text>
+  <text x="40" y="371.7" font-family="'JetBrains Mono', monospace" font-size="8.6" fill="#b9a8e0" xml:space="preserve">bpOLJUvf?IuaMarU0WOC*#Xd0Lrf)n/       icLUuvQ|nYcjnCUjr(xmOX(cC0</text>
+
+  <line x1="520" y1="60" x2="520" y2="420" stroke="#1c1428" stroke-width="1"/>
+
+  <g font-family="'JetBrains Mono', monospace" font-size="15" fill="#c9c0e0">
+    <text x="550" y="80" fill="#27e27f" font-weight="700">saksham@sksm-os</text>
+    <line x1="550" y1="90" x2="780" y2="90" stroke="#2a1f3d" stroke-width="1"/>
+
+    <text x="550" y="118"><tspan fill="#aa42ff">OS</tspan><tspan dx="8" fill="#c9c0e0">SKSM-OS 2.0 x86_64</tspan></text>
+    <text x="550" y="144"><tspan fill="#aa42ff">Host</tspan><tspan dx="8" fill="#c9c0e0">saksham.digital</tspan></text>
+    <text x="550" y="170"><tspan fill="#aa42ff">Kernel</tspan><tspan dx="8" fill="#c9c0e0">quant-5.4.0-hft</tspan></text>
+    <text x="550" y="196"><tspan fill="#aa42ff">Shell</tspan><tspan dx="8" fill="#c9c0e0">sksm-sh</tspan></text>
+    <text x="550" y="222"><tspan fill="#aa42ff">CPU</tspan><tspan dx="8" fill="#c9c0e0">brain @ 2.7M thoughts/s</tspan></text>
+    <text x="550" y="248"><tspan fill="#aa42ff">Memory</tspan><tspan dx="8" fill="#c9c0e0">infinite (caffeine-driven)</tspan></text>
+
+    <text x="550" y="284"><tspan fill="#aa42ff">Langs</tspan><tspan dx="8" fill="#c9c0e0">C++20, Python, TypeScript</tspan></text>
+    <text x="550" y="310"><tspan fill="#aa42ff">Focus</tspan><tspan dx="8" fill="#c9c0e0">quant research, low-latency systems</tspan></text>
+    <text x="550" y="336"><tspan fill="#aa42ff">Record</tspan><tspan dx="8" fill="#c9c0e0">IMC Prosperity 4, rank 154/18,800+</tspan></text>
+    <text x="550" y="362"><tspan fill="#aa42ff">Contact</tspan><tspan dx="8" fill="#c9c0e0">saksham10arora@gmail.com</tspan></text>
+  </g>
+
+  <g transform="translate(550,400)">
+    <rect x="0" y="0" width="20" height="20" fill="#9333ea"/>
+    <rect x="20" y="0" width="20" height="20" fill="#7e22ce"/>
+    <rect x="40" y="0" width="20" height="20" fill="#6b21a8"/>
+    <rect x="60" y="0" width="20" height="20" fill="#581c87"/>
+    <rect x="80" y="0" width="20" height="20" fill="#27e27f"/>
+    <rect x="100" y="0" width="20" height="20" fill="#c9c0e0"/>
+    <rect x="120" y="0" width="20" height="20" fill="#8f8aa3"/>
+    <rect x="140" y="0" width="20" height="20" fill="#0d0d0d" stroke="#2a1f3d"/>
+  </g>
+</svg>
