@@ -9,6 +9,10 @@ IMC Prosperity 4: rank 154 / 18,800+ teams
 
 <br/>
 
+<img src="assets/neofetch.png" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank" width="720"/>
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=saksham10arora-dotcom&label=views&color=7c3aed&style=flat-square)](https://github.com/saksham10arora-dotcom)
 [![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaksham10arora-dotcom&query=%24.public_repos&suffix=%2B+repos&label=&style=flat-square&color=1e1a2e&labelColor=1e1a2e&logo=github&logoColor=aa42ff)](https://github.com/saksham10arora-dotcom?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/saksham10arora-dotcom?label=followers&style=flat-square&color=1e1a2e&labelColor=1e1a2e&logoColor=aa42ff&logo=github)](https://github.com/saksham10arora-dotcom?tab=followers)
