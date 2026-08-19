@@ -9,7 +9,7 @@ IMC Prosperity 4: rank 154 / 18,800+ teams
 
 <br/>
 
-<img src="assets/neofetch.png" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank" width="720"/>
+<img src="assets/neofetch-ascii.png" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank" width="720"/>
 
 <br/>
 
