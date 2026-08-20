@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',Consolas,monospace" width="630px" height="440px" font-size="16px">
+<style>
+.key {fill: #c2a4ff;}
+.value {fill: #eae5ec;}
+.cc {fill: #52495e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="630px" height="440px" fill="#0d0b14" rx="15"/>
+<text x="15" y="30" fill="#c9c0e0">
+  <tspan x="15" y="30">saksham@sksm-os</tspan> -————————————————————————————————————————————-
+  <tspan x="15" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">SKSM-OS 2.0 x86_64</tspan></tspan>
+  <tspan x="15" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">saksham.digital</tspan></tspan>
+  <tspan x="15" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">quant-5.4.0</tspan></tspan>
+  <tspan x="15" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">sksm-sh</tspan></tspan>
+  <tspan x="15" y="130"><tspan class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">brain @ 2.7M thoughts/s</tspan></tspan>
+  <tspan x="15" y="150"><tspan class="cc">. </tspan><tspan class="key">Memory</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">infinite (caffeine-driven)</tspan></tspan>
+  <tspan x="15" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">C++20, Python, TypeScript</tspan></tspan>
+  <tspan x="15" y="210"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">data science, quant research</tspan></tspan>
+  <tspan x="15" y="250">- Contact</tspan> -————————————————————————————————————————————-
+  <tspan x="15" y="270"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">saksham10arora@gmail.com</tspan></tspan>
+  <tspan x="15" y="290"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">saksham-arora10</tspan></tspan>
+  <tspan x="15" y="310"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">saksham10arora-dotcom</tspan></tspan>
+  <tspan x="15" y="350">- Achievements</tspan> -————————————————————————————————————————————-
+  <tspan x="15" y="370"><tspan class="cc">. </tspan><tspan class="key">DevDay 2026</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">selected, SF (invite-only)</tspan></tspan>
+  <tspan x="15" y="390"><tspan class="cc">. </tspan><tspan class="key">Hackathons</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">2x winner (Elastic, Paytm)</tspan></tspan>
+  <tspan x="15" y="410"><tspan class="cc">. </tspan><tspan class="key">CP Rating</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LC 1543 · CC 1760 (3★)</tspan></tspan>
+</text>
+</svg>
