@@ -8,7 +8,7 @@ Data Science · Quant Research · Systems · C++20
 
 <br/>
 
-<img src="assets/neofetch-v8.svg" alt="neofetch-style summary: SKSM-OS, languages, focus"/>
+<img src="assets/neofetch-v9.svg" alt="neofetch-style card: photo, SKSM-OS, languages, focus"/>
 
 <br/>
 
