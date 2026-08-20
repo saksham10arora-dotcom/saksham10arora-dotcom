@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono',Consolas,monospace" width="1270px" height="828px" font-size="16px">
+<style>
+.key {fill: #c2a4ff;}
+.value {fill: #eae5ec;}
+.cc {fill: #52495e;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1270px" height="828px" fill="#0d0b14" rx="15"/>
+<text x="15" y="18" fill="#8f6fd6" font-size="10px" class="ascii">
+  <tspan x="15" y="18">,,:::::::::::::::::::::::::::::::::::::::::::::::,::::::,:::::::::,,,,::::::::::,,^-}-1?i&lt;</tspan>
+  <tspan x="15" y="30">,,,,,::::::::::::::::::::::,,:,,,,,::::::::,,,,,,,,:::::::,,,,,,,,,,,,,:::,,,,,",&gt;i{(+~?__</tspan>
+  <tspan x="15" y="42">,,,,,,,,,::::::::,,,:::::::,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,l1[+[]&lt;i&gt;&gt;&lt;</tspan>
+  <tspan x="15" y="54">,,,,,,,,,,,::::::,,,,,,,,:,,,,,,:,,,,,:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,!-+!;i~~l!I</tspan>
+  <tspan x="15" y="66">,,,,,,,,,,,:,,,,,,,,,,,,,,,,,,"^^",,,"^^""^^^^^",,,,,,,",,,,,,,,,,,,,,,,,,,,,,,""&lt;~?-&gt;&lt;i!l</tspan>
+  <tspan x="15" y="78">,,,,,,,,,,,,,,,,,,,,,,,,,,,""";&gt;&lt;l^,,l_]]{|}?+l;^^,,""",""""",,,,,,,,,,,,,,,,,,,,^-|&lt;lIIi&gt;</tspan>
+  <tspan x="15" y="90">,,,,,,,,,,,,,,,,,,,,,,""""""^I[{{11)|t]-]}[]{|11}l`^"""",,,,,"","",,,,,,,,,,,,,,,",I,,"":;</tspan>
+  <tspan x="15" y="102">,,,,,,,,,,,"",,,,,,,,"""""",!_+l!-{){--]-&lt;&gt;i__??[)-i^""""""""",",""""""",,"^^`^",,l!+!:,,,</tspan>
+  <tspan x="15" y="114">",,,",:,"","""""""""""""^^:_]?-&gt;&lt;&gt;iIII&lt;_ii~~_~+~&gt;+{)i^"^"""""^'``^"",:;:,"l_[(+!^?\-{?_:,,</tspan>
+  <tspan x="15" y="126">""",,,,,""^"""""""""^^"^":&lt;i:I```,;:;;:,liI!&gt;&gt;&gt;i&gt;&lt;i+{;^"`'`^^:_i~l^,]?1_,"~+~~?i^I,^^{+,;,</tspan>
+  <tspan x="15" y="138">,,,""^","^""^^^"""""^^^,l?[_+&lt;^";'`^I!;,,Iii&gt;i!llI;l&lt;i^^i?]}&lt;;+!&gt;:^,,^:&lt;:""^^,];^"^I:)_:;,</tspan>
+  <tspan x="15" y="150">"""""",,""""^^^^^^^^^^^:+--&lt;i&lt;I~!iiI,'^:IlIIlIlllIli!;^`Il::""`""`^,,;;[+^;:,I)!^,&lt;+^{?II:</tspan>
+  <tspan x="15" y="162">,;:,^^""""^^^^^^^^^^^^^^;&lt;&gt;l"_f\?[/t\-,````",;lli&gt;::;l,^""""^,,,,^^";i:_i^lI";{I^li,,(],;:</tspan>
+  <tspan x="15" y="174">"",:,"^^^"^^^^^^"^^^^^^,:&gt;il!cCvxvXUJUn|~:^`'`::I&lt;I;I&lt;&gt;,""^^"""",^^^,:"]&gt;:,::;}&lt;",;;^{]^"^</tspan>
+  <tspan x="15" y="186">,",::::,,,"^^^^;,"^^^^""^:I:?x-]\xuUCJLC|_!l_{ft&gt;:I!l+_l:",^^^",,^^,!,,[~^,I!,?"`,^&lt;"-_i]]</tspan>
+  <tspan x="15" y="198">,"""""",,^`^^^^,:"^^^^^^``^ &gt;Yv}(rfzCQLCf+\XcvQZx`"",!&gt;~l,^`^``",^^"l-I&lt;`^^;i;i^`^!l"++?Ow</tspan>
+  <tspan x="15" y="210">^"^``^,,;}[::^`"",^'`^^^``.?0Z0JzUL00QQQu]uQjrXC[`::,,;::^``^`^"I`'"!I,_1:^"`!}:^:I",}~,)[</tspan>
+  <tspan x="15" y="222">^,^````"IJYI;`'^`I".`````.?pZLUUQLLLLLCUzxvnvJvj{+,''^,:^^^^^^^"i;.,,`:&gt;I;`^',_!,;I"^[[:&lt;&gt;</tspan>
+  <tspan x="15" y="234">",^``^""`'^,,,^."..`````^'&gt;[{vcUCLLLLJJJUYcxuvxxvx}`^,,`^^^"````"i`^~!:;^:,^"^i!,^.`:,!^li</tspan>
+  <tspan x="15" y="246">'..''`^"``^'`^^`;`.'`````^``~nzzXCJYYUJUXcuncXXXccx:^"^"^,,,^^"::;i?()1)|\//\(({i,;:l,":lI</tspan>
+  <tspan x="15" y="258">1(\////\\1]~,`^",`^^",,,,:;I!|fjczXXXzurffjncXzXXXc?;I,::::::l-(//rtfjfftrff(}]-_-;,,";III</tspan>
+  <tspan x="15" y="270">xnvucvcvxj|-,:liiill:,,::::::;:/zcvxt\|(\trnvczzXXXc]-]IIIIll+[[[[?__--__~&lt;&gt;!;;!!I;,;:;:;I</tspan>
+  <tspan x="15" y="282">][[[[[]?-+~ii_[}1)}[__??]]]][}}//)1}1][/xncczzXXzzXYc[ru\(\\(1[][}[{1111((|))?]~&gt;+[[}|((|(</tspan>
+  <tspan x="15" y="294">{(/ttt\|\\(1{{[{\/fjjjjjxrxrrrf//\fuv&lt;_frxvczXXXXczXu(\cUx\{][?]{)|/fjjrnuxxj{{+~?{{[]]][[</tspan>
+  <tspan x="15" y="306">rnXXXzzcuur|{[_?{{1{{{{{{{{}}{(t/vzXv~?jt/juczcczXYu)1tjXXxnj{&lt;&gt;~-][1|||\j/\(-+ili--~i!&gt;&lt;&lt;</tspan>
+  <tspan x="15" y="318">|\tfjjjjf\|{-_&lt;&gt;_-_-~&gt;&gt;&gt;&lt;~-{fcvxczxxx?-xvccnvXvcYYj}{\jvX/tcUCUf(1}{(||\fjfff|({(|(\|1()))</tspan>
+  <tspan x="15" y="330">/tjjjxrffff/\(111)()1(){\zUUXr/(jtjf\)?jLJCJXULQJ/}(\juvj/(tuxvLCYnj(1(|(|////\t||\\t/f/||</tspan>
+  <tspan x="15" y="342">ftt\t\|\jt|(/tfffrrjrjjxYvxr/|(x\{}]-/{(vCQO0LJc-_})(|(\)\/(/x/tnvXLYxf)|\ft\|\|1(|/\(\|((</tspan>
+  <tspan x="15" y="354">//t//|//f/((\\||\/t/\\|rx\(/|/xj\t||{}]-1fUXr1~~~_-??__[1|\t|(jjjxrnYcvx1?{1[[]?_?]]]]}}]]</tspan>
+  <tspan x="15" y="366">{}{[[[[]{{[[[]]}[]{}[[{/(1)tfnx\t\\(1{1{)[?_&lt;&lt;_?[{111))()11(((1(\(/({\xvv{-]]]]]-?-???[]--</tspan>
+  <tspan x="15" y="378">[}}}{}[[}{[]]]]--??]-_}1{]{/ff|\\\((1{)1([{[]{11{{1)(((\\(11{1[]{)|1{1(tnv]~-+~~&lt;&lt;&lt;~+_~&lt;il</tspan>
+  <tspan x="15" y="390">?[[{}}}{1}][[-+&lt;&gt;-]&lt;&gt;i-}-]tf|\|/|((()){[\j\]{11))1)((1))(//1{1]??]?[}{)(|cx+-+&lt;~&gt;!&lt;&lt;~&lt;&lt;l}j</tspan>
+  <tspan x="15" y="402">-][]]1{}}}{{]_&gt;!!+?i!I1)-_)/t(((1111{(-1}[-~[{1{1{1)11{){}(\1{?]?--[[}11)/X1&lt;_~&gt;l!ii!&gt;i;-t</tspan>
+  <tspan x="15" y="414">~_--]1}[}}[}]+&lt;!i~~&lt;l://_~+()}11}}}[}]?|[]~~?}{1{{{{1{1{}[?[{[--__-[]]{11)xr~+&lt;il!&lt;&gt;il!;&gt;1</tspan>
+  <tspan x="15" y="426">&gt;~~~+++_?-++_~ill-]!I+u(?-&lt;:&lt;}{{[[[]}&lt;]1}{]~?[[[[[[]{{}]_[}-+_&lt;&lt;&lt;~?]-?}[1(1n}i&lt;ilIii!&gt;il-\</tspan>
+  <tspan x="15" y="438">&gt;&gt;&gt;i&lt;&lt;&gt;&lt;&lt;&gt;&lt;&lt;&gt;&gt;ll!&lt;&lt;lIl(|]+&lt;Ii[[]]?_?~+1{}1[~~-]?[}}]+_-?-~-]_il&lt;i~_-_?[[}1(|t&gt;!lIIl!i&lt;&lt;!Il</tspan>
+  <tspan x="15" y="450">i!!!ii&gt;&gt;ii&gt;iiillliIIl:1Yx\}-!?}[-&lt;_&lt;&lt;{{}}{}-~_____-_+~_]-+_?_&lt;l!i~__-?][}}{)v\l!ll!!&gt;ii!II</tspan>
+  <tspan x="15" y="462">!i&gt;ii&gt;&gt;&lt;~&lt;&lt;&gt;illlliiliI/UXzr\-+\1!~~&gt;{{}}{{[?_+-_&lt;~~~+_++~_-_--~ll~~_-?]][}{}\J-I!l!i!!llll</tspan>
+  <tspan x="15" y="474">ii!ii&lt;&lt;&lt;&lt;illll!!!iii!ixvnr|}&lt;?\&lt;~&lt;i1)}{{{{}}-__??_~+-?-_-??]-_+&gt;Ii~_-][}{[[[{nuIiii&gt;&lt;&lt;iill</tspan>
+  <tspan x="15" y="486">iii!!i&gt;&gt;ii!!iiiiii!l;{zj\1[+&gt;1__~&lt;{)}1{}{{}1]-_+][?__][[]???--_~&lt;!~-]{1)1[[{\uX~iiiii&gt;&lt;i!i</tspan>
+  <tspan x="15" y="498">!ii!iiiiii!!iii&lt;i&gt;iI&gt;ccf}--_??_~~11]{{}{}}{1}]]__]}}?_-[}[]???-+!!i](\fjjucYUUU1!i!i&gt;&gt;!!!i</tspan>
+  <tspan x="15" y="510">!iiiiii&gt;&gt;i!iiiiii&gt;iI|Uzr({}?]-&lt;_11}{{[[}[}}{)[]?__[[]???-][]?]]ill!&lt;tcXXUUUYXXYu&gt;&gt;ii&lt;iiiii</tspan>
+  <tspan x="15" y="522">ii&lt;~~&lt;&lt;&gt;!!!i&lt;&lt;&lt;iii!&gt;uXzut)[{?&lt;_({{)1}[[[[}[}){]]?+_]][[[]]??]}+i!l!l&lt;|nvccczczXY?!&gt;&gt;iiii&lt;&gt;</tspan>
+  <tspan x="15" y="534">i&gt;&gt;&lt;&lt;iiiii&gt;&lt;&gt;iiiiil-cccuf1]_&lt;[|{{){{[][{}[]]1)[[}]-?][{[][[[[]&lt;&gt;&gt;&gt;i&gt;!&gt;1/jnvcvuzYti&lt;&gt;ii&lt;&gt;i&gt;</tspan>
+  <tspan x="15" y="546">ii!!iiii&gt;&gt;&gt;ii&gt;&gt;i!!l[zcur\)[?(|[1(11[[[}[[[[][1{]][}[][}}}}}?[-i&gt;ii&lt;&lt;&gt;ii-1rvcvvzzn~i&lt;&lt;&gt;&lt;&gt;&gt;&gt;</tspan>
+  <tspan x="15" y="558">&lt;&gt;&lt;&lt;&lt;i!!iiiii&lt;~&lt;i&gt;!(vvnf{))(({\\)1{[[[[[[[[[[{(1]]?[]]][][[[{+li!!!!ii&gt;-}tnvccunx?ii&gt;&gt;&lt;~~&lt;</tspan>
+  <tspan x="15" y="570">&lt;&lt;~&lt;il!i&gt;&lt;~&lt;&gt;!!!!!!\vvx\])t/(/({}{[][[}[[]]][[}()]-[[[}[[?][[~l!iii!i&lt;}(tncXXvxjt~i&lt;_-~ii!</tspan>
+  <tspan x="15" y="582">iiiii!!!!!l!l!!lllifvvj1\\)()[][}[[[[}}}]]}[[[[[1(}]]}}[][]--~li!!i!i{/jnzXzvxff_!&lt;~+_+&lt;i!</tspan>
+  <tspan x="15" y="594">i!!i&gt;&gt;!!lll!ii!i&gt;l~xvu|1|{]_+?[]]??[[]]?]]]]][[]][1){[[[[?][}_iii!ll[tjxvcvuxf/_li!!ii&lt;~&lt;&lt;</tspan>
+  <tspan x="15" y="606">IIII!lIllllllIIl!I]nuj}1|?_+~_--?-[[]]]?][[?-?][]-?[}{[}{??]?&gt;liii!]tjxuvvnrt1i:IIIIli!I::</tspan>
+  <tspan x="15" y="618">/\\/t/tfffjftfjjjjtur(\{[)1{[--_-[}]???]]]]?--?][[[[}[]]_&gt;&gt;~~/ffft}|frxnnxj\t/(||(((())))(</tspan>
+  <tspan x="15" y="630">zcczXXXXYUYXXYYYUcttvU\{}]??]{(()}+~~~++_+__+_-???+~~~+&lt;&gt;~__[UJYJf)fjjjjjf//XUJJJUUJUXzzXU</tspan>
+  <tspan x="15" y="642">XXXUYXXYUUYUUXzcXjfZM8kv|){{1)[-~&gt;i&gt;&gt;&gt;&gt;&gt;i&gt;&lt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&lt;_?]][]]?-?\XX/1jnxrjft|\YUzUYYYYXzvzczn</tspan>
+  <tspan x="15" y="654">XXXYXXzzXXXXXzzXYrw8#W8Mwv|[-+&lt;~~~+__++_--_____--???-_+__-__+)U\(xunrjf\(\zUXzXYXUYzXUUXUX</tspan>
+  <tspan x="15" y="666">vcvczcnnXXuuucvuvvoM##MM#aqc{i!&gt;&lt;~~&lt;&lt;&lt;~&lt;&lt;&lt;&lt;&lt;~~~~~~~+_--]]?_+&gt;_/tcvnrf\(jcUzXUXzXzXJXXXYUCC</tspan>
+  <tspan x="15" y="678">QLCLLUJLLjCLCJYYXXhM##*oaakkqY\?&lt;!lii&lt;+_--??????]?-_+++~~i;i!^I-(jj/(jU0QJLLLCLJYYUUXzvC0L</tspan>
+  <tspan x="15" y="690">YUUYccuYXvYUUJzjvuZ&amp;M**ooakkbbdmCvt[+&lt;!ll!i&gt;&lt;~~~&lt;&lt;i!l!!l&gt;++1/{i:[Cj{nQOQQQQLCLLCLCJUCQJJJL</tspan>
+  <tspan x="15" y="702">\()(11[11[??]}?-[_c&amp;##M###ohhbdpdpmZQUvrf\|){]_+__+_]{\rz\}\fr\-nr1\jf/t/\|\\|\1|t/j///jfx</tspan>
+  <tspan x="15" y="714">/||(1{)1}[}1}}{11[/h**aa*M#*aaaahbbhddqpwwqwwwZOZZ0OmqbhkO)(\\\)}1(/]?---[][-?[[?[}{]][){)</tspan>
+  <tspan x="15" y="726">f//fjttt(\t\(\fft||moMMokbkkdppppdbkhkkkdppddpdkkkkkhaaak*J)()))111{}11(()1|(()))|\)|//(\|</tspan>
+  <tspan x="15" y="738">trfjfftj///tjttft/\Zhaa*W#oahbdqwwqpbdhaaahhkhhkkkhhaahkkdd/)(1){1(()|(|1//|\/\\\|/\fff\\/</tspan>
+  <tspan x="15" y="750">fffjjxrf|/\fnxjfxjtwkdokdkhao*okbwqwwpkhoooaahhkhhaaahkbdqqu1{11|11((((/fr](jf////fftttf/\</tspan>
+  <tspan x="15" y="762">jxxjjrjt(|rvvccrvrjqhpdMMhdqwwwZZZqddddko*oooahhaoohbdpqwmZr{1([11)({/jtf}+xujtj1|f\/f\/tf</tspan>
+  <tspan x="15" y="774">xftjjxcrtrtxcnvnxnrqdhdwdhbqmZOQLLCZpqqpkaaoooo***kbdpqwwZO)}{())(/|})t/jt/vxxj(tfrn/jf\\t</tspan>
+  <tspan x="15" y="786">txnvuvunf\rjrzvxrx/wbpkdwqqqqwZOQLJXY0mmqdbbkkaabpdkdpqqmqY{([(/|\\f/{\/r\uXzr)|/fxxnnf/tt</tspan>
+  <tspan x="15" y="798">vucvncnrtjtxjjXcfj/QkqqkkpqwwZOOQLLJccLddpddpdbdqqqpqwwmZwj)/|{1(///\}/j/(vzc)\j/nxjjfftxx</tspan>
+</text>
+<text x="660" y="30" fill="#c9c0e0">
+  <tspan x="660" y="30">saksham@sksm-os</tspan> -————————————————————————————————————————————-
+  <tspan x="660" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">SKSM-OS 2.0 x86_64</tspan></tspan>
+  <tspan x="660" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">saksham.digital</tspan></tspan>
+  <tspan x="660" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">quant-5.4.0</tspan></tspan>
+  <tspan x="660" y="110"><tspan class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">sksm-sh</tspan></tspan>
+  <tspan x="660" y="130"><tspan class="cc">. </tspan><tspan class="key">CPU</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">brain @ 2.7M thoughts/s</tspan></tspan>
+  <tspan x="660" y="150"><tspan class="cc">. </tspan><tspan class="key">Memory</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">infinite (caffeine-driven)</tspan></tspan>
+  <tspan x="660" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">C++20, Python, TypeScript</tspan></tspan>
+  <tspan x="660" y="210"><tspan class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">data science, quant research</tspan></tspan>
+  <tspan x="660" y="250">- Contact</tspan> -————————————————————————————————————————————-
+  <tspan x="660" y="270"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">saksham10arora@gmail.com</tspan></tspan>
+  <tspan x="660" y="290"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">saksham-arora10</tspan></tspan>
+  <tspan x="660" y="310"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">saksham10arora-dotcom</tspan></tspan>
+  <tspan x="660" y="350">- Achievements</tspan> -————————————————————————————————————————————-
+  <tspan x="660" y="370"><tspan class="cc">. </tspan><tspan class="key">DevDay 2026</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">selected, SF (invite-only)</tspan></tspan>
+  <tspan x="660" y="390"><tspan class="cc">. </tspan><tspan class="key">Hackathons</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">2x winner (Elastic, Paytm)</tspan></tspan>
+  <tspan x="660" y="410"><tspan class="cc">. </tspan><tspan class="key">CP Rating</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LC 1543 · CC 1760 (3★)</tspan></tspan>
+</text>
+</svg>
