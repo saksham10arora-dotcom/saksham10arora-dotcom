@@ -4,12 +4,11 @@
 $ whoami
 Saksham Arora — I build things where the interesting constraint is the data.
 Data Science · Quant Research · Systems · C++20
-IMC Prosperity 4: rank 154 / 18,800+ teams
 ```
 
 <br/>
 
-<img src="assets/neofetch-v3.svg" alt="neofetch-style summary: SKSM-OS, languages, focus, IMC Prosperity 4 rank"/>
+<img src="assets/neofetch-v3.svg" alt="neofetch-style summary: SKSM-OS, languages, focus"/>
 
 <br/>
 
@@ -40,14 +39,12 @@ focus:
   - LLM API benchmarking
 
 numbers_that_matter:
-  hft_engine:      2.7M ops/sec, p99 900ns, 3.31x gain
-  imc_prosperity4: rank 154 / 18800+ teams, top 0.8%
-  qrscholes:       Black-Scholes in 731 bytes, no server
-  gitrade:         live exchange inside a GitHub README
+  qrscholes: Black-Scholes in 731 bytes, no server
+  gitrade:   live exchange inside a GitHub README
 
 currently:
   interning_at: Airtel · Data Science, Jun-Jul 2026
-  building:     llm-bench (HFT-grade LLM latency bench)
+  building:     llm-bench (LLM API latency benchmarker)
 
 philosophy: "Rigor, not vibes."
 ```
@@ -57,13 +54,12 @@ philosophy: "Rigor, not vibes."
 
 ### building
 
-- [`llm-bench`](https://github.com/saksham10arora-dotcom/llm-bench) · HFT-grade latency benchmarker for LLM APIs `[shipped · PyPI]`
+- [`llm-bench`](https://github.com/saksham10arora-dotcom/llm-bench) · latency benchmarker for LLM APIs `[shipped · PyPI]`
 - `lockfree-cpp` · lock-free C++20 concurrent data structures
 
 ### shipped
 
 - Data scientist and quant researcher who measures before claiming
-- IMC Prosperity 4 top 0.8% globally (rank 154)
 - Every claim ships with a number attached
 - Blog: [chimera](https://blog.saksham.digital)
 - [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 

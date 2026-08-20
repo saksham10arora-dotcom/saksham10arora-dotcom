@@ -40,7 +40,7 @@
   <g clip-path="url(#tape)">
     <text y="283" font-size="12" fill="#aa42ff">
       <animateTransform attributeName="transform" type="translate" from="780 0" to="-1500 0" dur="22s" repeatCount="indefinite"/>
-      HFT-ENG ▲ 2.7M ops/s p99 900ns&#160;&#160;·&#160;&#160;IMC-P4 ▲ rank 154 / 18,800+ (top 0.8%)&#160;&#160;·&#160;&#160;GITRADE ▲ live market in a README&#160;&#160;·&#160;&#160;LLM-BENCH ▲ percentiles not averages&#160;&#160;·&#160;&#160;QRS ▲ Black-Scholes in 731 bytes&#160;&#160;·&#160;&#160;SLEEP ▼ limit down
+      GITRADE ▲ live market in a README&#160;&#160;·&#160;&#160;LLM-BENCH ▲ percentiles not averages&#160;&#160;·&#160;&#160;QRS ▲ Black-Scholes in 731 bytes&#160;&#160;·&#160;&#160;SLEEP ▼ limit down
     </text>
   </g>
 </svg>
