@@ -10,12 +10,6 @@ Data Science · Quant Research · Systems · C++20
 
 <img src="assets/neofetch-v14.svg" alt="neofetch-style card: ASCII portrait, SKSM-OS, languages, focus, achievements"/>
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=saksham10arora-dotcom&label=views&color=7c3aed&style=flat-square)](https://github.com/saksham10arora-dotcom)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsaksham10arora-dotcom&query=%24.public_repos&suffix=%2B+repos&label=&style=flat-square&color=1e1a2e&labelColor=1e1a2e&logo=github&logoColor=aa42ff)](https://github.com/saksham10arora-dotcom?tab=repositories)
-[![Followers](https://img.shields.io/github/followers/saksham10arora-dotcom?label=followers&style=flat-square&color=1e1a2e&labelColor=1e1a2e&logoColor=aa42ff&logo=github)](https://github.com/saksham10arora-dotcom?tab=followers)
-
 </div>
 <br/>
 
@@ -31,12 +25,6 @@ located_in: India
 institutions:
   - IIT Madras Online BS (Data Science)
   - GGSIPU B.Tech CSE
-
-focus:
-  - Data science and ML pipelines
-  - Quant finance and algo trading
-  - Systems engineering (C++20)
-  - LLM API benchmarking
 
 numbers_that_matter:
   qrscholes: Black-Scholes in 731 bytes, no server
@@ -75,24 +63,6 @@ philosophy: "Rigor, not vibes."
 <div align="center">
 
 <img src="assets/terminal.svg" alt="SKSM terminal: current grind and open orders" width="780"/>
-
-</div>
-
----
-
-### stats
-
-<div align="center">
-
-<a href="https://github.com/saksham10arora-dotcom">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saksham10arora-dotcom&bg_color=0d0b14&color=aa42ff&line=7b40ff&point=c9c0e0&area=true&area_color=7b40ff&hide_border=true&custom_title=contribution+activity" width="95%" alt="Activity Graph"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-trophies.vercel.app/?username=saksham10arora-dotcom&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="100%"/>
-</a>
 
 </div>
 
