@@ -47,8 +47,6 @@ philosophy: "Rigor, not vibes."
 
 ### shipped
 
-- Data scientist and quant researcher who measures before claiming
-- Every claim ships with a number attached
 - Blog: [chimera](https://blog.saksham.digital)
 - [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 
 
@@ -119,7 +117,7 @@ You just liquidated this README. While the market reopens:
 | SIDE | INSTRUMENT | HOW TO FILL |
 |:--|:--|:--|
 | BUY | [gitrade](https://github.com/saksham10arora-dotcom/gitrade) bots | submit a PR, trade $STAR $COMMIT $FORK |
-| BUY | a systems intern who measures before claiming | saksham10arora@gmail.com |
+| BUY | a data science / quant research intern who measures before claiming | saksham10arora@gmail.com |
 | SELL | my sleep schedule | already limit down |
 
 <sub>psst: press <code>`</code> on <a href="https://saksham.digital">saksham.digital</a> for the real terminal · SEC Rule 80B would like a word with you</sub>
