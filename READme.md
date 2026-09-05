@@ -19,52 +19,11 @@ Data Science · Quant Research · Systems · C++20
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
-```yaml
-name: Saksham Arora
-located_in: India
-institutions:
-  - IIT Madras Online BS (Data Science)
-  - GGSIPU B.Tech CSE
-
-numbers_that_matter:
-  qrscholes: Black-Scholes in 731 bytes, no server
-  gitrade:   live exchange inside a GitHub README
-
-currently:
-  interning_at: Airtel · Data Science, Jun-Jul 2026
-  building:     llm-bench (LLM API latency benchmarker)
-
-philosophy: "Rigor, not vibes."
-```
-
-</td>
-<td width="45%" valign="top">
-
-### building
-
-- [`llm-bench`](https://github.com/saksham10arora-dotcom/llm-bench) · latency benchmarker for LLM APIs `[shipped · PyPI]`
-- `lockfree-cpp` · lock-free C++20 concurrent data structures
-
-### shipped
-
-- Blog: [chimera](https://blog.saksham.digital)
-- [Portfolio](https://saksham.digital) (took me an eternity even with vibe coding) 
-
-</td>
-</tr>
-</table>
-
----
-
 ### live session
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="SKSM terminal: current grind and open orders" width="780"/>
+<img src="assets/terminal.svg" alt="SKSM terminal: who I am, what I am working on, and recent projects" width="780"/>
 
 </div>
 
