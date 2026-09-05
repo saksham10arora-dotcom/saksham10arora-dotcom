@@ -6,7 +6,7 @@
 
 ```
 $ whoami
-Saksham Arora — I build things where the interesting constraint is the data.
+Saksham Arora · I build things where the interesting constraint is the data.
 Data Science · Quant Research · Systems · C++20
 ```
 
