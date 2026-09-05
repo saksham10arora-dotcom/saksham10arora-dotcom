@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="assets/banner.gif" alt="ASCII rain condensing into the words SAKSHAM ARORA, then dissolving back into rain"/>
+
+<br/><br/>
+
 ```
 $ whoami
 Saksham Arora — I build things where the interesting constraint is the data.
@@ -120,7 +124,7 @@ You just liquidated this README. While the market reopens:
 | BUY | a data science / quant research intern who measures before claiming | saksham10arora@gmail.com |
 | SELL | my sleep schedule | already limit down |
 
-<sub>psst: press <code>`</code> on <a href="https://saksham.digital">saksham.digital</a> for the real terminal · SEC Rule 80B would like a word with you</sub>
+<sub>psst: press <code>t</code> on <a href="https://saksham.digital">saksham.digital</a> for the real terminal · SEC Rule 80B would like a word with you</sub>
 
 </div>
 
