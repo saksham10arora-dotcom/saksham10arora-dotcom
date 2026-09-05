@@ -23,7 +23,7 @@ Data Science · Quant Research · Systems · C++20
 
 <div align="center">
 
-<img src="assets/terminal.svg" alt="SKSM terminal: who I am, what I am working on, and recent projects" width="780"/>
+<img src="assets/terminal-v2.svg" alt="SKSM terminal: who I am, what I am working on, and recent projects" width="780"/>
 
 </div>
 
