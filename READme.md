@@ -27,8 +27,6 @@ Data Science · Quant Research · Systems · C++20
 npx saksham-arora
 ```
 
-[![npm](https://img.shields.io/npm/v/saksham-arora?style=flat-square&label=npm&color=aa42ff&labelColor=0d0b14)](https://www.npmjs.com/package/saksham-arora)
-[![deps](https://img.shields.io/badge/dependencies-0-27e27f?style=flat-square&labelColor=0d0b14)](https://github.com/saksham10arora-dotcom/saksham-cli)
 
 <sub>this card, in your terminal · repo and follower counts pulled live from the GitHub API · something hidden behind <code>g</code></sub>
 
