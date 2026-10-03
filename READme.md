@@ -70,31 +70,6 @@ I'm Saksham, a CS student doing two degrees at once: a BS in Data Science at **I
 
 ---
 
-<details>
-<summary><b>⚠ TRADING HALTED · LULD circuit breaker tripped · click to resume</b></summary>
-
-<br/>
-
-<div align="center">
-
-You just liquidated this README. While the market reopens:
-
-**open orders**
-
-| SIDE | INSTRUMENT | HOW TO FILL |
-|:--|:--|:--|
-| BUY | [gitrade](https://github.com/saksham10arora-dotcom/gitrade) bots | submit a PR, trade $STAR $COMMIT $FORK |
-| BUY | a data science / quant research intern who measures before claiming | saksham10arora@gmail.com |
-| SELL | my sleep schedule | already limit down |
-
-<sub>psst: press <code>t</code> on <a href="https://saksham.digital">saksham.digital</a> for the real terminal · SEC Rule 80B would like a word with you</sub>
-
-</div>
-
-</details>
-
-<br/>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0b14)](https://linkedin.com/in/saksham-arora10)
