@@ -53,23 +53,6 @@ I'm Saksham, a CS student doing two degrees at once: a BS in Data Science at **I
 
 ---
 
-### stack
-
-<div align="center">
-
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/></a>
-<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript"/></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash"/></a>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
-<a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions"/></a>
-<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux"/></a>
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0b14)](https://linkedin.com/in/saksham-arora10)
