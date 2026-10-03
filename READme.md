@@ -19,31 +19,6 @@ Data Science · Quant Research · Systems · C++20
 
 ---
 
-### run me
-
-<div align="center">
-
-```bash
-npx saksham-arora
-```
-
-
-<sub>this card, in your terminal · repo and follower counts pulled live from the GitHub API · something hidden behind <code>g</code></sub>
-
-</div>
-
----
-
-### live session
-
-<div align="center">
-
-<img src="assets/terminal-v2.svg" alt="SKSM terminal: who I am, what I am working on, and recent projects" width="780"/>
-
-</div>
-
----
-
 ### contributions
 
 <div align="center">
