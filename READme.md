@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.gif" alt="ASCII rain condensing into the words SAKSHAM ARORA, then dissolving back into rain"/>
-
-<br/><br/>
-
 ```
 $ whoami
 Saksham Arora · I build things where the interesting constraint is the data.
