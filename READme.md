@@ -17,7 +17,7 @@ Data Science · Quant Research · Systems · C++20
 
 ### about
 
-I'm Saksham, a CS student doing two degrees at once: a BS in Data Science at **IIT Madras** and a B.Tech in Computer Science at **GGSIPU**, New Delhi. I'm becoming an AI engineer, and I learn by shipping things I use every day: [Margin](https://saksham.digital/margin) turns the lectures I watch into study notes in Obsidian, and [Latch](https://saksham.digital/latch) pins a lecture in full screen so Escape does nothing.
+I'm Saksham, a CS student doing two degrees at once: a BS in Data Science at **IIT Madras** and a B.Tech in Computer Science at **GGSIPU**, New Delhi. I'm becoming an AI engineer, and I learn by shipping things I use every day: [Margin](https://saksham.digital/margin) turns the lectures I watch into study notes in Obsidian, [Latch](https://saksham.digital/latch) pins a lecture in full screen so Escape does nothing, and [ECX](https://github.com/saksham10arora-dotcom/everything-claude-codex) is my whole Claude Code + Codex setup, open source, with one memory shared between both agents.
 
 - **Now:** joining a research project at **Columbia University** · data engineering intern at **Cimplifie** (since Oct 2024)
 - **Before:** AI Engineer Intern at **Tieout** (Aug to Sep 2026), turning messy financial audit PDFs into structured data for audit agents · Data Science Intern at **Airtel Xtelify** (Jun to Jul 2026), a recommendation system on PySpark for Airtel's streaming platform
